@@ -1,5 +1,5 @@
-{
-"employee1" : {
+[
+ {
         "name" : "Ravi Dhiman",
         "designation" : "Front End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application.",
@@ -12,7 +12,7 @@
     },
 
 
-    "employee2" : {
+    {
         "name" : "Sanyam Bansal",
         "designation" : "Back End Developer",
         "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
@@ -25,7 +25,7 @@
     },
 
 
-    "employee3" : {
+     {
         "name" : "Pankul Mittal",
         "designation" : "Back End Developer",
         "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
@@ -35,5 +35,6 @@
             { "github" : "https://github.com/Pankul-Mittal" },
             { "linkedin" : "https://www.linkedin.com/" }
         ]
-    },
-};
+    }
+  ]
+
