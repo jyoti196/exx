@@ -1,40 +1,39 @@
 [
- {
+{
         "name" : "Ravi Dhiman",
         "designation" : "Front End Developer",
         "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application.",
         "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/ravi.jpg",
         "links" : [
-            { "facebook" : "https://www.facebook.com/dhiman90"},
-            { "github" : "https://github.com/ravid7000" },
-            { "linkedin" : "https://www.linkedin.com/in/ravidhiman17/" }
-        ]
-    },
-
-
-    {
-        "name" : "Sanyam Bansal",
-        "designation" : "Back End Developer",
-        "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
-        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/sanyam.jpg",
-        "links" : [
-            { "facebook" : "https://www.facebook.com"},
-            { "github" : "https://github.com/sanyam199" },
-            { "linkedin" : "https://www.linkedin.com/in/sanyam76/" }
+             "https://www.facebook.com/dhiman90",
+             "https://github.com/ravid7000" ,
+             "https://www.linkedin.com/in/ravidhiman17/"
         ]
     },
 
 
      {
+        "name" : "Sanyam Bansal",
+        "designation" : "Back End Developer",
+        "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/sanyam.jpg",
+        "links" : [
+            "https://www.facebook.com",
+            "https://github.com/sanyam199" ,
+            "https://www.linkedin.com/in/sanyam76/"
+        ]
+    },
+
+
+ {
         "name" : "Pankul Mittal",
         "designation" : "Back End Developer",
         "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
         "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/pankul.jpg",
         "links" : [
-            { "facebook" : "https://www.facebook.com"},
-            { "github" : "https://github.com/Pankul-Mittal" },
-            { "linkedin" : "https://www.linkedin.com/" }
+             "https://www.facebook.com",
+             "https://github.com/Pankul-Mittal" ,
+             "https://www.linkedin.com/" 
         ]
     }
-  ]
-
+]
